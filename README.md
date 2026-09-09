@@ -1,16 +1,42 @@
-## Hi there 👋
+# Olá! 👋 Eu sou Laura
 
-<!--
-**lauramatos-source/lauramatos-source** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Análise e Desenvolvimento de Sistemas (ADS)
 
-Here are some ideas to get you started:
+💻 Atualmente desenvolvendo meus conhecimentos em programação e tecnologia.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Sobre mim
+
+Sou estudante de Análise e Desenvolvimento de Sistemas e estou construindo minha trajetória na área de tecnologia.
+
+Tenho interesse em desenvolvimento de software, programação e cibersegurança, buscando constantemente transformar o conhecimento adquirido nos estudos em projetos práticos.
+
+## 🛠️ Tecnologias e conhecimentos
+
+- Java
+- Lógica de Programação
+- Git e GitHub
+- Fundamentos de Desenvolvimento de Sistemas
+
+## 📚 Atualmente estudando
+
+- Java
+- Estruturas de programação
+- Desenvolvimento de sistemas
+- Git e GitHub
+- Fundamentos de cibersegurança
+
+## 📂 Projetos
+
+### Projeto Java — Aula 26/08
+
+Projeto introdutório desenvolvido em Java para praticar entrada de dados utilizando `Scanner`.
+
+🔗 [Ver projeto](https://github.com/lauramatos-source/projeto-java-aula2608)
+
+## 🎯 Objetivo profissional
+
+Busco uma oportunidade para iniciar ou desenvolver minha experiência profissional na área de tecnologia, colocando em prática meus conhecimentos e evoluindo continuamente como profissional.
+
+---
+
+⭐ Obrigada pela visita ao meu perfil!
